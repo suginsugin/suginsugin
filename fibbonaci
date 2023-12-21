@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+	int a=0,b=1,c;
+	printf("suginbalaji  G\n192321111\n");
+	printf("%d\n%d",a,b);
+	for(int i=2;i<10;i++)
+	{
+		c=a+b;
+		printf("\n%d",c);
+		a=b;
+		b=c;
+	}
+}
+C:\Users\Sugin\OneDrive\Desktop\WhatsApp Image 2023-12-20 at 22.39.16_a05986b8.jpg
