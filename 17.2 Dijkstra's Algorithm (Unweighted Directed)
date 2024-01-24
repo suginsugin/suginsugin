@@ -43,7 +43,7 @@ void dijkstra(int graph[V][V], int src) {
 }
 
 int main() {
-    printf("madhubalan\n192321142\n");
+    printf("suginbalaji\n192321111\n");
 
     int graph[V][V] = {
         {0, 4, 0, 0, 0, 0, 0, 8, 0},
